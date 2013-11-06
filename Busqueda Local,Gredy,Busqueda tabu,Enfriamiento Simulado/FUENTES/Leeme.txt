@@ -1,0 +1,7 @@
+
+Si se descarga Python: 
+http://www.python.org/download/releases/2.7.3/
+y se instala solo ai que abrir el fichero y este se ejecutara.
+
+sino para compilarlo y montarlo en un exe tendremos que descargar py2exe(http://sourceforge.net/projects/py2exe/?source=dlp)
+y en el cmd poner python setup.py py2exe
